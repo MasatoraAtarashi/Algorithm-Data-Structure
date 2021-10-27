@@ -5,6 +5,7 @@
 * [ ] Advanced-Dynamic-Programming
 * [ ] Advanced-Graph
 * [ ] Advanced-Sort
+ * [x] Quick-Sort
 * [ ] Basic-Sort
 * [ ] Binary-Search-Tree
 * [ ] ComputationalGeometry
@@ -19,4 +20,4 @@
 * [ ] Tree
 * [ ] WeightedGrap
 * [ ] その他
-  * [ ] FizzBuzz
+  * [x] FizzBuzz
