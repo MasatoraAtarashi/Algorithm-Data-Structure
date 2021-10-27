@@ -18,3 +18,5 @@
 * [ ] Search
 * [ ] Tree
 * [ ] WeightedGrap
+* [ ] その他
+  * [ ] FizzBuzz
